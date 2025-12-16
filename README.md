@@ -1,4 +1,3 @@
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2025-12-16 at 03 52 54" src="https://github.com/user-attachments/assets/cff39fa5-e6ab-4833-ab21-1f534d6489e2" /># openfashion
 
 A new Flutter project.
 
