@@ -13,6 +13,10 @@ A few resources to get you started if this is your first Flutter project:
 #📱 Screens 
 #
 #
+#<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 - 2025-12-16 at 03 52 46" src="https://github.com/user-attachments/assets/7eb6c214-6620-4f18-adbb-0a7b6c6bf8cc" />
+
+#
+#
 # <img width="410" height="889" alt="Screenshot 2025-11-27 at 4 00 23 AM" src="https://github.com/user-attachments/assets/8a779a01-5eb2-4b85-b973-2d3e3bb8cdab" />
 #
 #
